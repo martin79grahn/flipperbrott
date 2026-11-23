@@ -6,7 +6,7 @@ config_version=5
 
 config/name="Flipperbrott"
 config/description="Krossa tegel med paddel och flippers."
-config/version="1.0.0"
+config/version="1.1.0"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 boot_splash/bg_color=Color(0.03, 0.02, 0.08, 1)
@@ -48,4 +48,3 @@ environment/defaults/default_clear_color=Color(0.03, 0.02, 0.08, 1)
 repo="martin79grahn/flipperbrott"
 store_url="http://192.168.0.97:8787,http://100.85.197.108:8787"
 language="sv"
-key="GFEvg9lphCoS"
